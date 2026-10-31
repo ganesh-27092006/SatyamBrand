@@ -191,7 +191,7 @@ const menProducts = [
         price: "₹799",
         type: "jackets",
         image:
-        "https://images.unsplash.com/photo-149624107-3f1b6e3f1f0e?auto=format&fit=crop&w=900&q=85"
+        "https://images.unsplash.com/photo-1690444963408-9573a17a8058?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     },
 
     {
@@ -254,7 +254,7 @@ const womenProducts = [
         price: "₹699",
         type: "dresses",
         image:
-        "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=900&q=85"
+        "https://images.unsplash.com/photo-1571513722275-4b41940f54b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
     },
 
     {
